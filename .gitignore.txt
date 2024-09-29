@@ -1,0 +1,24 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+.vscode/
+.idea/
+*.vs
+
+# Auto-generated files
+*.log
+*.tlog
+*.lastcodeanalysissucceeded
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]rm/
+[Aa]rm64/
